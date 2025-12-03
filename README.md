@@ -14,9 +14,11 @@
 Um sistema que permite acessar a previsão do tempo de acordo com a cidade digitada pelo usuário. Foi utilizada a API do [HG Brasil](https://hgbrasil.com/weather) no sistema desktop feito em WPF.
 
 ## 🖥 Layout
-![Home]()
-
-![Home com previsão do tempo]()
+<p align="center">
+  <img alt="Home" title="Home" src="https://github.com/whateverlcs/whatismyweather/blob/main/assets/home.png">
+  
+  <img alt="Home-with-weather" title="Home with Weather" src="https://github.com/whateverlcs/whatismyweather/blob/main/assets/home-with-weather.png">
+</p>
 
 ## Pré-Requisitos
 
